@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/WER%20final-43%25-4CAF50?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Whisper-Fine--tuning-FF6F00?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Langue-Zazaki-8E24AA?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Transfer%20Learning-Pivot%20Kurde-1565C0?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transfer%20Learning-Kurde%20Nord-1565C0?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pseudo--labeling-Augmentation-00897B?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
